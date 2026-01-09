@@ -82,7 +82,7 @@ The app relies on the `riftbound-content-v1` namespace to ensure data is always 
 
 This is a volunteer project built for the Riftbound community.
 
-* **Repository:** [github.com/MANRAF04/void-archive](https://github.com/MANRAF04/void-archive)
+* **Repository:** [github.com/MANRAF04/riftbound-void-archive](https://github.com/MANRAF04/riftbound-void-archive)
 * **Issues:** Bug reports and feature requests welcome via GitHub Issues.
 
 **Creator:** Built by [@MANRAF04](https://github.com/MANRAF04) — a Riftbound player and software engineer passionate about making physical TCG play smoother.
